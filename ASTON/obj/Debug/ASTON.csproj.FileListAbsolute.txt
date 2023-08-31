@@ -1,0 +1,8 @@
+C:\Users\87053\OneDrive\Рабочий стол\ASTON\ASTON\ASTON\bin\Debug\ASTON.exe.config
+C:\Users\87053\OneDrive\Рабочий стол\ASTON\ASTON\ASTON\bin\Debug\ASTON.exe
+C:\Users\87053\OneDrive\Рабочий стол\ASTON\ASTON\ASTON\bin\Debug\ASTON.pdb
+C:\Users\87053\OneDrive\Рабочий стол\ASTON\ASTON\ASTON\obj\Debug\ASTON.csproj.AssemblyReference.cache
+C:\Users\87053\OneDrive\Рабочий стол\ASTON\ASTON\ASTON\obj\Debug\ASTON.csproj.SuggestedBindingRedirects.cache
+C:\Users\87053\OneDrive\Рабочий стол\ASTON\ASTON\ASTON\obj\Debug\ASTON.csproj.CoreCompileInputs.cache
+C:\Users\87053\OneDrive\Рабочий стол\ASTON\ASTON\ASTON\obj\Debug\ASTON.exe
+C:\Users\87053\OneDrive\Рабочий стол\ASTON\ASTON\ASTON\obj\Debug\ASTON.pdb
